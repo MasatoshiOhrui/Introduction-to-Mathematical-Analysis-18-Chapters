@@ -1,3 +1,3 @@
-From elementary education mathematics to mathematical analysis applied to partial differential equations.
+From elementary education mathematics to mathematical analysis applied to partial differential equations, 18 chapters.
 
-[Mathematical Analysis 18 Chapters.pdf](https://github.com/user-attachments/files/35118256/Mathematical.Analysis.18.Chapters.pdf)
+[Mathematical Analysis.pdf](https://github.com/user-attachments/files/35203359/Mathematical.Analysis.pdf)
